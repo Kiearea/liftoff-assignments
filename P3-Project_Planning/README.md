@@ -8,14 +8,14 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 Mockup:
-![Alt Text](https://app.moqups.com/QqRiWY1iYh/view)
+https://app.moqups.com/QqRiWY1iYh/view
 * Home page
 * User's personal page
 * Login page
 * Signup page
 
 ### Project Tracker
-![Alt Text](https://trello.com/b/t8C7rKuN)
+https://trello.com/b/t8C7rKuN
 
 ### Project Repo Link
-![Alt Text](https://kiearea.github.io/safeatz/)
+https://kiearea.github.io/safeatz/
