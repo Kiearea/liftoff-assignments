@@ -7,13 +7,15 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+Mockup:
+![Alt Text](https://app.moqups.com/QqRiWY1iYh/view)
+* Home page
+* User's personal page
+* Login page
+* Signup page
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+![Alt Text](https://trello.com/b/t8C7rKuN)
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+![Alt Text](https://kiearea.github.io/safeatz/)
