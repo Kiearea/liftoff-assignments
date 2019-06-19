@@ -18,4 +18,4 @@ https://app.moqups.com/QqRiWY1iYh/view
 https://trello.com/b/t8C7rKuN
 
 ### Project Repo Link
-https://kiearea.github.io/safeatz/
+https://github.com/Kiearea/safeatz
